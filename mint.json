@@ -9,7 +9,7 @@
   "colors": {
     "primary": "#9757F6",
     "light": "#7213FF",
-    "dark": "#9757F6",
+    "dark": "#9757F6"
   },
   "modeToggle": {
     "default": "dark",
@@ -34,11 +34,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "setup",
-        "configuration"
-      ]
+      "pages": ["introduction", "setup", "configuration"]
     },
     {
       "group": "Integrations",
@@ -59,11 +55,8 @@
     },
     {
       "group": "Webhooks",
-      "pages": [
-        "webhooks/pagerduty",
-        "webhooks/opsgenie"
-      ]
-    },
+      "pages": ["webhooks/pagerduty", "webhooks/opsgenie"]
+    }
   ],
   "footerSocials": {
     "facebook": "https://www.facebook.com/profile.php?id=61556255706936",
